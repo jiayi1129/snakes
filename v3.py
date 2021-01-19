@@ -4,7 +4,6 @@ import time
 import math
 
 def main():
-    # some changes done here
     # set up screen
 
     win = Screen()
